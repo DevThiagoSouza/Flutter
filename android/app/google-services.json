@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127655035368",
+    "project_id": "zapzap-b3585",
+    "storage_bucket": "zapzap-b3585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127655035368:android:fc727d2d338c90c3ffa45d",
+        "android_client_info": {
+          "package_name": "com.example.app_zap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127655035368-r47dad3bd65nhgfkautalcndc4ev3t10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2VMWm2X9hEFyTrCjyj_Dtu9CftS85t50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127655035368-r47dad3bd65nhgfkautalcndc4ev3t10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
